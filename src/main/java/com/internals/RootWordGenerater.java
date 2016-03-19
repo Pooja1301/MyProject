@@ -14,7 +14,7 @@ public class RootWordGenerater {
 
     public static void main(String[] args) throws JWNLException, IOException {
         String fileName = RemoveWordsBelowThreshold.getFileNameFromUser();
-        map = new HashMap<>();
+        map = new HashMap<String, Integer>();
         Stemmer stemmer = new Stemmer();
         String fileData = RemoveWordsBelowThreshold.readFile(new File(fileName));
         String[] lines = fileData.split("\n");
