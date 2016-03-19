@@ -1,0 +1,615 @@
+[
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with Sreehari Chandran at School of Management Studies, UoH, Hyderabad."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "https://www.facebook.com/fuuast.edu.pk/"
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "Einstein, the master Plagiarist (who steals others intellectual works)\n\n Reason : Einstein stole “the principle of relativity” given by Galileo in 1632 in book  The Dialogue  concerning  worlds chief systems. \n\nEinstein’ published the same in his name in 1905  Annalen der Physik ( then German UNREVIEWED JOURNAL )  as first postulate of Theory of Relativity .\nIt happened after 273 years of publication of Galileo’\nEinstein did not acknowledge Galileo  at all in the paper against established norms, he was aware of norms as by 1905 he had submitted two PhD thesis ( in 1903 with drawn fearing rejection and forfeiting fee paid for evaluation of thesis, and 1905).\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n        Other aspects of relativity such as  Second postulate  of relativity ( Poincare and  preceding scientists,1898), Relativistic variation of mass (Thomson , Kaufman and Lorentz: 1881,1903,1904), time dilation (Larmor and Lorentz,1900), length contradiction  ( Fitzgerald and Lorentz, 1889,1892) existed before Einstein. \n      Exactly in similar fashion Einstein  Einstein also copied works of  , POINCARE, Lorentz, Joseph Larmor, Fitzgerald  etc. The relativity is not EINSTEIN’S, he is simply compiler. Now history must be corrected. Einstein published all in his name in June 1905 paper  (SPECIAL THOERY OF RELATIVITY)  UN-REVIEWED in Annalen der Physik\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nINTERVIEW ON U-tube\n    https://www.youtube.com/watch?v\u003d5ig414VSGiw\u0026feature\u003dyoutu.be\nwww.AjayOnLine.us                 0091 94184 50899"
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with University Of Hyderabad - School Of Chemistry at University of Hyderabad."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "Sir, I wanna do PhD in English literature... In uoh .when notification comes?"
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "Wanted to attend the session .. But I\u0027m not fit fr pg because I\u0027m doing my graduation itself. ... Feeling annoyed ..."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "congratulations sir...."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "So much well deserved..."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "Congrats sir. Wish u all the success!"
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 25 new photos to the album: Prof. Radhika Gajjala at the Research Round Table, 12 January — with Nikita Mehta and 5 others at Department of Communication, University of Hyderabad."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "I think  posts  like this are fantastic who agrees?"
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "Congratulations to Sravani Moolinty,Purnachandra Rao.T, Talari Daniel, Chithra Sankar, Andugula Nagadevi, Golla Mahesh Kumar Golla and Surya Narayana."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 7 new photos — with Csseip Hcu and Srinivasa Rao Vasanta."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with School of Management Studies, UoH, Hyderabad and 4 others at University of Hyderabad."
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "Congrats Ra Sikender Rockzz"
+  },
+  {
+    "identifier": "c",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Dear Friends.....Chandra Kanth Pakalapati, Praveen Reddy, Anvesh Kitti and Sikender Rockzz"
+  }
+][
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with Sreehari Chandran at School of Management Studies, UoH, Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added an event."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with Shreyás Jòseph at University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added an event."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad at University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "https://www.facebook.com/fuuast.edu.pk/"
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "Einstein, the master Plagiarist (who steals others intellectual works)\n\n Reason : Einstein stole “the principle of relativity” given by Galileo in 1632 in book  The Dialogue  concerning  worlds chief systems. \n\nEinstein’ published the same in his name in 1905  Annalen der Physik ( then German UNREVIEWED JOURNAL )  as first postulate of Theory of Relativity .\nIt happened after 273 years of publication of Galileo’\nEinstein did not acknowledge Galileo  at all in the paper against established norms, he was aware of norms as by 1905 he had submitted two PhD thesis ( in 1903 with drawn fearing rejection and forfeiting fee paid for evaluation of thesis, and 1905).\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n        Other aspects of relativity such as  Second postulate  of relativity ( Poincare and  preceding scientists,1898), Relativistic variation of mass (Thomson , Kaufman and Lorentz: 1881,1903,1904), time dilation (Larmor and Lorentz,1900), length contradiction  ( Fitzgerald and Lorentz, 1889,1892) existed before Einstein. \n      Exactly in similar fashion Einstein  Einstein also copied works of  , POINCARE, Lorentz, Joseph Larmor, Fitzgerald  etc. The relativity is not EINSTEIN’S, he is simply compiler. Now history must be corrected. Einstein published all in his name in June 1905 paper  (SPECIAL THOERY OF RELATIVITY)  UN-REVIEWED in Annalen der Physik\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nINTERVIEW ON U-tube\n    https://www.youtube.com/watch?v\u003d5ig414VSGiw\u0026feature\u003dyoutu.be\nwww.AjayOnLine.us                 0091 94184 50899"
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with University Of Hyderabad - School Of Chemistry at University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with Shaik John Basheer and 46 others at CCL, UoH."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added an event."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with IIT Bombay at University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "Wanted to attend the session .. But I\u0027m not fit fr pg because I\u0027m doing my graduation itself. ... Feeling annoyed ..."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 2 new photos from January 13 at 8:00pm — at C V Raman Auditorium, University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 22 new photos."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 25 new photos to the album: Prof. Radhika Gajjala at the Research Round Table, 12 January — with Nikita Mehta and 5 others at Department of Communication, University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad at DST Auditorium, University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added an event."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 5 new photos."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 6 new photos — with Chandu Chandu and 3 others."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 7 new photos — with Csseip Hcu and Srinivasa Rao Vasanta."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "Rafi TA Azad\nMisab Nilambur"
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with School of Management Studies, UoH, Hyderabad and 4 others at University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "Congratulations bro Anvesh Kitti"
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "Party ra bava"
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "thanq Naveen bava"
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad shared GS CASH\u0027s post — at University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad at University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad at University of Hyderabad."
+  },
+  {
+    "identifier": "b",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad shared their event."
+  }
+][
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with Sreehari Chandran at School of Management Studies, UoH, Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added an event."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with Shreyás Jòseph at University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added an event."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad at University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "https://www.facebook.com/fuuast.edu.pk/"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Einstein, the master Plagiarist (who steals others intellectual works)\n\n Reason : Einstein stole “the principle of relativity” given by Galileo in 1632 in book  The Dialogue  concerning  worlds chief systems. \n\nEinstein’ published the same in his name in 1905  Annalen der Physik ( then German UNREVIEWED JOURNAL )  as first postulate of Theory of Relativity .\nIt happened after 273 years of publication of Galileo’\nEinstein did not acknowledge Galileo  at all in the paper against established norms, he was aware of norms as by 1905 he had submitted two PhD thesis ( in 1903 with drawn fearing rejection and forfeiting fee paid for evaluation of thesis, and 1905).\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n        Other aspects of relativity such as  Second postulate  of relativity ( Poincare and  preceding scientists,1898), Relativistic variation of mass (Thomson , Kaufman and Lorentz: 1881,1903,1904), time dilation (Larmor and Lorentz,1900), length contradiction  ( Fitzgerald and Lorentz, 1889,1892) existed before Einstein. \n      Exactly in similar fashion Einstein  Einstein also copied works of  , POINCARE, Lorentz, Joseph Larmor, Fitzgerald  etc. The relativity is not EINSTEIN’S, he is simply compiler. Now history must be corrected. Einstein published all in his name in June 1905 paper  (SPECIAL THOERY OF RELATIVITY)  UN-REVIEWED in Annalen der Physik\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nINTERVIEW ON U-tube\n    https://www.youtube.com/watch?v\u003d5ig414VSGiw\u0026feature\u003dyoutu.be\nwww.AjayOnLine.us                 0091 94184 50899"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with University Of Hyderabad - School Of Chemistry at University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with Shaik John Basheer and 46 others at CCL, UoH."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added an event."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Sir, I wanna do PhD in English literature... In uoh .when notification comes?"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with IIT Bombay at University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Wanted to attend the session .. But I\u0027m not fit fr pg because I\u0027m doing my graduation itself. ... Feeling annoyed ..."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations sir.. !"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Sir!!!!"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations sir"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "congratulations sir...."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Sir!"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Heartiest Congratulations Surajit, keep it up and up..... ☺"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congrats sir. Wish u all the success!"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations sir..."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Sir, you deserve for this award..."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Sir"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Sir"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations sir"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations sir"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Dr. Surjit ji....."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Surajit. Great going"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Dr Dhara for award...."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "We are very proud of you. Sankranthi is real to u now"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Sir Congrats"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations sir.."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 2 new photos from January 13 at 8:00pm — at C V Raman Auditorium, University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 22 new photos."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 25 new photos to the album: Prof. Radhika Gajjala at the Research Round Table, 12 January — with Nikita Mehta and 5 others at Department of Communication, University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad at DST Auditorium, University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added an event."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 5 new photos."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 6 new photos — with Chandu Chandu and 3 others."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulation"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "I think  posts  like this are fantastic who agrees?"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations to Sravani Moolinty,Purnachandra Rao.T, Talari Daniel, Chithra Sankar, Andugula Nagadevi, Golla Mahesh Kumar Golla and Surya Narayana."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad added 7 new photos — with Csseip Hcu and Srinivasa Rao Vasanta."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Rafi TA Azad\nMisab Nilambur"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad with School of Management Studies, UoH, Hyderabad and 4 others at University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations bro Anvesh Kitti"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congrats guys."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congrats Ra Sikender Rockzz"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Cngrts anna"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Anvesh Kitti"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Party ra bava"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congrats raChandra Kanth Pakalapati"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Congratulations Dear Friends.....Chandra Kanth Pakalapati, Praveen Reddy, Anvesh Kitti and Sikender Rockzz"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "thanq Naveen bava"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad shared GS CASH\u0027s post — at University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad at University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Haha lol"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad at University of Hyderabad."
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "University of Hyderabad shared their event."
+  }
+][
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Saver eso es lo mas facil del mundo un chafon tiene android"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Gracias"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Por el flash"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Conectandolo a itunes"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Estéticamente la calidad de el housing y la pantalla, y la calidad de la resolución de la pantalla las apps y todo se mira muy diferente"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "No tiene appstore, ni safari"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Gracias 😉"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "La camera de enfrente si tiene uno aun lAdo de lA camara de selfis"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Christian Delgado"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Tiene garantía de Apple??"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Jesus Morales"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "3000 pesos ya"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Mándalo a garantía para que te lo arreglen o te lo cambien, no lo arregles aquí"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "3500 ya!"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Pasame el imei"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "de ke compania es?"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "Cuanto por el"
+  },
+  {
+    "identifier": "a",
+    "source": "Facebook",
+    "postOrComment": "cuanto lo menos x el note"
+  }
+]
