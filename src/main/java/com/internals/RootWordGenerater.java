@@ -16,7 +16,7 @@ public class RootWordGenerater {
         String fileName = RemoveWordsBelowThreshold.getFileNameFromUser();
         map = new HashMap<String, Integer>();
         Stemmer stemmer = new Stemmer();
-        String fileData = RemoveWordsBelowThreshold.readFile(new File(fileName));
+        String fileData = Util.readFile(new File(fileName));
         String[] lines = fileData.split("\n");
         for(String string : lines){
 
